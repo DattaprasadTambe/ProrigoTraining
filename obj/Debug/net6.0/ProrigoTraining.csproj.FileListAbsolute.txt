@@ -1,0 +1,15 @@
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\ProrigoTraining.csproj.AssemblyReference.cache
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\ProrigoTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\ProrigoTraining.AssemblyInfoInputs.cache
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\ProrigoTraining.AssemblyInfo.cs
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\ProrigoTraining.csproj.CoreCompileInputs.cache
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\bin\Debug\net6.0\ProrigoTraining.exe
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\bin\Debug\net6.0\ProrigoTraining.deps.json
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\bin\Debug\net6.0\ProrigoTraining.runtimeconfig.json
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\bin\Debug\net6.0\ProrigoTraining.dll
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\bin\Debug\net6.0\ProrigoTraining.pdb
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\ProrigoTraining.dll
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\refint\ProrigoTraining.dll
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\ProrigoTraining.pdb
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\ProrigoTraining.genruntimeconfig.cache
+C:\Users\Goku\source\repos\ProrigoTraining\ProrigoTraining\obj\Debug\net6.0\ref\ProrigoTraining.dll
