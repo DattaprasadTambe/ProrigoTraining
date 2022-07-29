@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<StartupObject>ProrigoTraining.July21.Demo</StartupObject>
+	<StartupObject>ProrigoTraining.July26.SortedSet</StartupObject>
   </PropertyGroup>
 
 </Project>
